@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  spring-template:
+  - apiVersion: v1.0
+    description: A Helm chart SpringService in Kubernetes
+    digest: ODQ0ODA4MDY0MDc5OrZFRLWLqf5UnFL7K5SxtHSsDzCQ
+    keywords:
+    - spring
+    - template
+    name: spring-template
+    sources:
+    - https://stash.pontoslivelo.com.br/projects/INF/repos/template-helm
+    urls:
+    - spring-template-0.1.2.tgz
+    version: 0.1.2
+generated: 2018-10-29T16:47:22.6044312Z
