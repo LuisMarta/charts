@@ -9,7 +9,7 @@ entries:
     - template
     name: spring-template
     sources:
-    - https://stash.pontoslivelo.com.br/projects/INF/repos/template-helm
+    - https://github.com/LuisMarta/charts/blob/master/mktp/spring
     urls:
     - spring-template-0.1.2.tgz
     version: 0.1.2
